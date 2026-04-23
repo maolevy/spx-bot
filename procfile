@@ -1,0 +1,1 @@
+worker: python spx_bot.py
